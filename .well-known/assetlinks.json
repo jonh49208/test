@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ru.denga",
+        "sha256_cert_fingerprints":
+          ["93:FA:18:C3:70:3A:00:B2:08:8F:E3:6C:CF:14:78:64:B4:55:7E:40:BD:57:94:7E:56:7B:5D:63:BE:37:DC:15"]
+      }
+    }
+  ]
